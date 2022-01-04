@@ -6,10 +6,8 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Don't touch my forest
-    text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: |
+      We save forests.
     actions:
       - type: Button
         label: Sign up
